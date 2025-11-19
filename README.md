@@ -6,19 +6,19 @@
 
 > **Live Demo:** [https://naija-solar-calculator.streamlit.app/](https://naija-solar-calculator.streamlit.app/)
 
-## 📖 Executive Summary
+## Executive Summary
 **NaijaSolarOps** is a data-driven feasibility tool designed to address the energy reliability crisis in Nigeria. With the recent implementation of "Band A" electricity tariffs and rising fuel costs, solar energy is no longer a luxury but a necessity.
 
 However, solar adoption faces a critical barrier: **Information Asymmetry.** Users often receive inflated quotes or undersized systems. This application uses **geospatial data** and **electrical engineering logic** to provide accurate, location-specific solar sizing and financial estimates for Nigerian homes and businesses.
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 ![App Dashboard](assets/demo_screenshot.png)
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. Geospatial Intelligence
 Unlike generic calculators, this engine adjusts solar yield based on the user's specific city in Nigeria.
@@ -40,7 +40,7 @@ The calculator distinguishes between two critical electrical metrics:
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### Tech Stack
 * **Frontend:** Streamlit (Python)
